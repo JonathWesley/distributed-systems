@@ -1,0 +1,9 @@
+Aluno: Jonath Wesley Herdt
+
+Tutorial utilizado: NodeJS e Express https://docs.microsoft.com/pt-br/learn/modules/build-web-api-nodejsexpress;
+
+Foi seguido o tutorial de maneira mais leve, pois já possuia conhecimento sobre NodeJS e Express. 
+Porém o tutorial serviu pra lembrar de algumas coisas, e de modo geral ajudou na implementação.
+Não ocorreu nenhum problema durante a implementação.
+E por fim, o tutorial apenas mostrava como trabalhar com GET e POST. Então foi feito o PUT e DELETE 
+a mais, que não estava no tutorial.
